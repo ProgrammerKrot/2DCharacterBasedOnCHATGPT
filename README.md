@@ -23,4 +23,4 @@ The following libraries are required to run the project:
 - `json` for working with the session history file 
 - `pyttsx3` for converting text to speech 
 - `ultralytics` to work with YOLO for object detection 
-- `cv2` for working with the camera
+- `cv2` for working with the camera 
