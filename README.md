@@ -4,6 +4,8 @@ This project is my own and I kindly request that you do not copy it or list me a
 
 The project was built using Python version 3.10.
 
+Read license!
+
 ## Required Libraries
 
 The following libraries are required to run the project:
