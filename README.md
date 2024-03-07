@@ -1,7 +1,7 @@
 # 2D Character Based on ChatGPT
 
-Probably, you are bored by uselesslity of normal chat assistants
-I tried to solve this problem, building this project powered by 3 biggest AI libraries: OpenAI, YOLO and sometime deepl
+Probably, you are bored by the uselessness of normal chat assistants.
+I tried to solve this problem by building this project powered by the three biggest AI libraries: OpenAI, YOLO, and sometimes DeepL.
 
 This project is my own and I kindly request that you do not copy it or list me as a co-author with a link to my GitHub for support. 
 
